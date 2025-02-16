@@ -66,5 +66,5 @@ alt - t : yabai -m window --toggle float && yabai -m window --grid 4:4:1:1:2:2
 # open app
 ctrl + cmd - c: open /Applications/Cursor.app
 ctrl + cmd - s: open /Applications/Slack.app
-ctrl + cmd - t: open /Applications/iTerm.app
+ctrl + cmd - t: open /Applications/kitty.app
 ctrl + cmd - a: open /Applications/Arc.app
